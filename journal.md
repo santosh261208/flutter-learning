@@ -1,6 +1,6 @@
 # Learning Journal
 
-## 12.01.2025
+## 12.01.2026
 
 ### What I did
 - Installed Flutter SDK
@@ -19,7 +19,7 @@
 
 ---
 
-## 13.01.2025
+## 13.01.2026
 
 ### What I did
 - Reviewed code structure differences (class vs direct)
