@@ -9,8 +9,8 @@ void main() {
           decoration: BoxDecoration(
             gradient: LinearGradient(
               colors: [
-                const Color.fromARGB(255, 190, 152, 255),
-                Color.fromARGB(255, 47, 14, 102),
+                const ui.Color.fromARGB(255, 164, 193, 216),
+                ui.Color.fromARGB(255, 14, 118, 136),
               ],
               begin: Alignment.topLeft,
               end: Alignment.bottomRight,
@@ -18,18 +18,10 @@ void main() {
           ),
           child: Center(
             child: Text(
-              'Flutter Course',
+              'Hell World',
               style: TextStyle(
                 fontSize: 28,
-                foreground: Paint()
-                  ..shader = ui.Gradient.linear(
-                    const Offset(0, 20),
-                    const Offset(150, 20),
-                    <Color>[
-                      const ui.Color.fromARGB(255, 75, 219, 230),
-                      const ui.Color.fromARGB(255, 14, 42, 117),
-                    ],
-                  ),
+                color: Colors.white
               ),
             ),
           ),

@@ -19,19 +19,19 @@
 
 ---
 
-## Template
-
-<!--
-Copy this for new entries:
-
-## DD.MM.YYYY
+## 13.01.2025
 
 ### What I did
-- 
+- Reviewed code structure differences (class vs direct)
+- Learned core concepts: classes, objects, widgets, arguments, properties
 
 ### What I learned
-- 
+- Class = blueprint (like Java)
+- Object = the built thing (when you write Container())
+- Widget = class for UI elements
+- Argument = what you put in ()
+- Property = named setting (name: value)
+- VS Code colors: green = classes, blue = properties, yellow = functions
 
 ### Next steps
-- 
--->
+- Continue with Lesson 36 (Custom Widgets)
