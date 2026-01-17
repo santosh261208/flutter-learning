@@ -19,7 +19,7 @@
 
 ---
 
-## 13.01.2026
+## 17.01.2026
 
 ### What I did
 - Reviewed code structure differences (class vs direct)
