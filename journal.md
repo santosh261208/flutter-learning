@@ -63,3 +63,37 @@
 ### Next steps
 - Continue with Roll Dice App
 - Create notes folder for learning notes
+
+---
+
+## 19.01.2026
+
+### What I did
+- Learned variables (var, final, const)
+- Learned instance variables to make widgets configurable
+- Solved color configuration task on my own!
+- Added images (dice) to the app
+- Created buttons with TextButton
+- Learned StatefulWidget and setState()
+- Created DiceRoller widget
+
+### What I learned
+- `var` = changeable variable
+- `final` = set once at runtime, cannot change
+- `const` = set at compile time, cannot change
+- `this.variableName` = store parameter in class variable
+- Instance variables make widgets reusable
+- `Image.asset('path')` = display images
+- `TextButton(onPressed: function, child: Text(...))` = button
+- StatelessWidget = never changes
+- StatefulWidget = can change (has state)
+- `setState(() { })` = tell Flutter to rebuild UI
+
+### Challenges
+- StatefulWidget structure is complex
+- Lots of new concepts at once
+
+### Next steps
+- Tomorrow: Review and understand everything
+- Then: Add random number generation
+- Finish Roll Dice App!
