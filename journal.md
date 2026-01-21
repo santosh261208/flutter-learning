@@ -97,3 +97,25 @@
 - Tomorrow: Review and understand everything
 - Then: Add random number generation
 - Finish Roll Dice App!
+
+---
+
+## 20.01.2026
+
+### What I did
+- 🤒 Sick day - no coding
+
+### Next steps
+- Rest and recover
+- Continue when feeling better
+
+---
+
+## 21.01.2026
+
+### What I did
+- 🤒 Sick day - no coding
+
+### Next steps
+- Rest and recover
+- Continue when feeling better
