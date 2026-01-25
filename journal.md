@@ -100,22 +100,12 @@
 
 ---
 
-## 20.01.2026
+## 20.01.2026 - 25.01.2026
 
 ### What I did
-- 🤒 Sick day - no coding
+- 🤒 Sick days - no coding
 
 ### Next steps
 - Rest and recover
-- Continue when feeling better
-
----
-
-## 21.01.2026
-
-### What I did
-- 🤒 Sick day - no coding
-
-### Next steps
-- Rest and recover
-- Continue when feeling better
+- Review notes before continuing
+- Finish Roll Dice App!
