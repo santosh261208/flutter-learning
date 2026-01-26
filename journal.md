@@ -109,3 +109,23 @@
 - Rest and recover
 - Review notes before continuing
 - Finish Roll Dice App!
+
+---
+
+## 26.01.2026
+
+### What I did
+- Back from sick days!
+- Reviewed notes and concepts
+- Repeated: Custom Widgets, Variables (var, final, const), Instance Variables, Images, Buttons
+
+### What I learned
+- Looking at notes is normal and good!
+- I remembered more than I thought
+- `const` = value known before app runs (like pi = 3.14)
+- `final` = value set when app runs (like DateTime.now())
+- `onPressed: function` NOT `onPressed: function()`
+
+### Next steps
+- Tomorrow: Review StatefulWidget
+- Then: Finish Roll Dice App with random number!
