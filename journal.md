@@ -129,3 +129,27 @@
 ### Next steps
 - Tomorrow: Review StatefulWidget
 - Then: Finish Roll Dice App with random number!
+
+---
+
+## 27.01.2026
+
+### What I did
+- 🚀 Hackathon at work (full day!)
+- Worked with Red Hat team
+- Real industry experience
+
+### What I learned
+- YAML
+- Red Hat tools
+- GitHub Copilot
+- Working in a team environment
+- Real-world development experience
+
+### Notes
+- No Flutter today but gained valuable professional experience
+- Hackathons are great for learning fast under pressure
+
+### Next steps
+- Continue with StatefulWidget review
+- Finish Roll Dice App!
